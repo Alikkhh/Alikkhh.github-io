@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@500&display=swap');
+
+#title{
+	padding: 3% 5%;
+	background: linear-gradient(45deg,  #1d2d50, #222831, #000000);
+	color: white;
+}
+
+#features{
+    background-image: url(https://img2.fonwall.ru/o/vx/picca-eda-vypechka-qjey.jpg);
+    padding: 1% 5%;
+    text-align: center;
+    color: white;
+}
+#menu{
+	background-image: url(background.jpg);
+	padding: 2% 5%;
+    text-align: center;
+    color: white;
+}
+#carousel{
+	padding: 2% 5%;
+    text-align: center;
+    color: white;
+    background-image: url(background2.jpg);
+}
+#payment{
+	padding: 2% 5%;
+    text-align: center;
+    color: black;
+    background-color: #222831;
+}
+footer{
+	padding: 1% 5%;
+	background-color: #ececec;
+}
+.card1{
+	text-align: center;
+	margin-left: 400px;
+}
+.discr{
+	    font-size: 20px;
+}
+.foot{
+	text-align: right;
+}
+.icon{
+	width: 30px;
+	float:right;
+	margin: 5px 3px;
+}
+.partner-img{
+  width: 10%;
+  margin-right: 70px;
+  margin-top: 30px;
+}
+.con{
+	width: 40%;
+	margin-left: 30%;
+}
+.menu{
+	font-family: Lemonada;
+	font-size: 75px;
+}
+.ps{
+	float:left;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.h1{
+	text-align: left;
+}
+.p{
+	text-align: left;
+}
+.price{
+	text-align: right;
+}
+.pizza{
+  font-size: 40px;
+  color: #f88f01;
+}
+.target{
+  font-size: 40px;
+  color: #23689b;
+}
+.time{
+  font-size: 40px;
+  color: #16c79a;
+}
+.bell{
+  font-size: 40px;
+  color: #ef4f4f;
+}
+.logo{
+   width: 300px;
+}
+.down-btn{
+	margin-top: 20px;
+	margin-right: 10px;
+}
+#call{
+	padding-top: 35px;
+}
